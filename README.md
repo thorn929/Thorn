@@ -50,37 +50,7 @@ scoped 作用的阻止上层的css样式传递到下层，限制当前css作用�
 
 ### 结构 
 <!-- http://dir.yardtea.cc/ -->
-src
-├─ App.vue
-├─ assets
-│    ├─ css
-│    │    ├─ animate.css
-│    │    └─ normalize.css
-│    ├─ images
-│    │    └─ logo.png
-│    ├─ js
-│    │    ├─ http.js
-│    │    ├─ utils.js
-│    │    └─ which.js
-│    └─ less
-│           └─ variable.less
-├─ components
-│    └─ HelloWorld.vue
-├─ main.js
-├─ router.js
-├─ routes
-│    └─ index.js
-├─ store
-│    ├─ index.js
-│    └─ modules
-│           └─ ui.js
-└─ views
-       ├─ 404.vue
-       ├─ A.vue
-       └─ Test.vue
-
 ### vscode 插件
-
 + EditorConfig for VS code
 + ESLint
 + language-stylus
