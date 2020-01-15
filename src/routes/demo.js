@@ -66,5 +66,9 @@ export default [
   {
     path: '/vuex',
     component: () => import('@/views/demo/vuex')
+  },
+  {
+    path: '/referer',
+    component: () => import('@/views/demo/Referer.vue')
   }
 ]
